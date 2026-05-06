@@ -63,7 +63,7 @@ payroll-management-system/
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/Divyansh-Parihar/Payroll-Management-System.git
+git clone https://github.com/Navkirat-Wadhera/Payroll_Management_System.git
 cd payroll-management-system
 ```
 
@@ -157,6 +157,6 @@ password
 
 ## 👤 Author
 
-**Divyansh Parihar**
+**Navkirat Singh Wadhera**
 
 > Built as a Database Management Systems (DBMS) project showcasing MySQL stored procedures, relational schema design, and Python-based full-stack development.
